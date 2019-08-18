@@ -7,7 +7,7 @@
       "source_ami": "ami-056ee704806822732",
       "ami_name": "updated-ami {{timestamp}}"
     }],
-    "provisions": [{
+    "provisioners": [{
             "type": "shell",
             "inline": [
                 "sudo yum update -y"
