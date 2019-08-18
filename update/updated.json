@@ -4,7 +4,7 @@
       "region": "us-west-1",
       "instance_type": "t2.micro",
       "ssh_username": "ec2-user",
-      "source_ami": "ami-082b5a644766e0e6f",
+      "source_ami": " ami-056ee704806822732",
       "ami_name": "updated-ami {{timestamp}}"
     }]
   }
